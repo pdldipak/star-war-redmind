@@ -1,0 +1,18 @@
+.App{
+    height:auto;
+    width:100%;
+    margin: 0;
+    padding:0;
+    color:black;
+  }
+
+  .btn:focus {
+    box-shadow: none !important;
+  }
+
+  center>h2{
+    font-family: 'Star Jedi', arial;
+    font-size: 40px;
+    text-shadow: 4px 4px 4px #aaa;
+    margin: 15px;
+  }

@@ -1,0 +1,12 @@
+@import url(https://allfont.net/allfont.css?fonts=star-jedi);
+
+* {
+  box-sizing: border-box;
+}
+body, html {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Star Jedi', arial;
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,9 @@
+.person-info > li {
+    list-style-type: none;
+    margin-top: 1rem;
+    font-size: 16px;
+    color:black;
+    text-align: center;
+    line-height: 10px;
+    font-weight: 400;
+  }

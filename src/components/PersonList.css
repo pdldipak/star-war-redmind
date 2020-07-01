@@ -1,0 +1,25 @@
+  .card-body {
+    background-image: url("./img/image2.jpg");
+    position: relative;
+    height: 280px; 
+    width: 100%;
+    border: 1px solid black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color:black;
+  }
+ 
+ 
+  .card{
+    margin: 1rem;
+  }
+
+  .card-body:hover{    
+    border:2px solid black;
+    transform: scale(1.05);
+    background: rgba(212, 238, 238, 0.5);
+}
+  
+
+
